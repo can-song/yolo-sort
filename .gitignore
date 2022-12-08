@@ -1,0 +1,4 @@
+.vscode/
+external/
+build/
+.cache/
