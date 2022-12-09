@@ -20,3 +20,4 @@ sudo make install
 ## example
 ### test_kalman.cpp
 simple example of kalman filter.
+![](images/kalman.png)
